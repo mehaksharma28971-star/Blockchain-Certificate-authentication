@@ -18,8 +18,7 @@ A blockchain-based platform for secure digital certificate authentication and va
 - Node.js
 - Vite
 
-# output
-![Output Screenshot](./screenshot.png)
+png)
 
 ## ⚙️ How to Run
 1. Clone the repo
